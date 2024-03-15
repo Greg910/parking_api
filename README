@@ -1,0 +1,10 @@
+# Setup
+
+Execute migration in database:  
+```python manage.py migrate```
+
+Create super user:  
+```python manage.py createsuperuser --username admin --email admin@example.com```
+
+Running server:  
+```python manage.py runserver```
