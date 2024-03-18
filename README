@@ -1,5 +1,13 @@
 # Setup
 
+Install pipenv
+
+Then execute:
+```pipenv install```
+
+Then execute:
+```pipenv shell```
+
 Execute migration in database:  
 ```python manage.py migrate```
 
